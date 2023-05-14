@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 # 💫 About Me:
-🔭 I’m currently working on https://sage-dango-e4547b.netlify.app/<br>🌱 I’m currently learning Advance React<br>👨‍💻 All of my projects are available at https://shubhampar.github.io/<br>💬 Ask me about HTML, CSS, JS, React, Redux 💬 Reachout to me on ishubhamsingh93@gmail.com
+🔭 I’m currently working on https://sage-dango-e4547b.netlify.app/<br>🌱 I’m currently learning Advance React<br>👨‍💻 All of my projects are available at /<br>💬 Ask me about HTML, CSS, JS, React, Redux 💬 Reachout to me on ishubhamsingh93@gmail.com
 
 
 ## 🌐 Socials:
