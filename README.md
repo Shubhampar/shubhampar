@@ -4,6 +4,7 @@
 🌱 I’m currently learning Advance React<br>👨‍💻 All of my projects are available at <br>
 💬 Ask me about HTML, CSS, JS, React, Redux 
 💬 Reachout to me on **ishubhamsingh93@gmail.com**
+⚡ Fun fact I am fun-loving.
 
 
 ## 🌐 Socials:
