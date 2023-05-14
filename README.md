@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
-<h2> 💫 About Me: <h2/>
+<h1> 💫 About Me: <h1/>
 🔭 I’m currently working on https://sage-dango-e4547b.netlify.app/<br>
 🌱 I’m currently learning Advance React<br>👨‍💻 All of my projects are available at <br>
 💬 Ask me about HTML, CSS, JS, React, Redux 
