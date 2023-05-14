@@ -7,7 +7,7 @@
 
 
 ## 🌐 Socials:
-<a href="[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shubham-singh-86664094/)"/> 
+<a href="[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shubham-singh-86664094/)"></a>
 
 
 # 💻 Tech Stack:
