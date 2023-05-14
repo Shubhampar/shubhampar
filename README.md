@@ -2,8 +2,8 @@
 <h1> 💫 About Me: </h1>
 🔭 I’m currently working on https://sage-dango-e4547b.netlify.app/<br>
 🌱 I’m currently learning Advance React<br>👨‍💻 All of my projects are available at <br>
-💬 Ask me about HTML, CSS, JS, React, Redux 
-💬 Reachout to me on **ishubhamsingh93@gmail.com**
+💬 Ask me about HTML, CSS, JS, React, Redux <br>
+💬 Reachout to me on **ishubhamsingh93@gmail.com**<br>
 ⚡ Fun fact I am fun-loving.
 
 
