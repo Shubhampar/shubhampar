@@ -24,7 +24,7 @@
 
 <p>
     <strong>
-        Here is the link of my personal portfolio https://shubhampar.github.io/Shubham-Singh-Portfolio/.
+        Here is the link of my personal portfolio https://shubhampar.github.io/.
     </strong>
 </p>
 
