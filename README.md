@@ -56,6 +56,3 @@
         <br>
     </div>
 </div>
-
-#### Contribution Graph
-[![Shubham Singh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shubhampar&theme=react-dark)](https://github.com/MrBlueBird2/github-readme-activity-graph)
