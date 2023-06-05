@@ -23,7 +23,7 @@
 
 <p>
     <strong>
-        Here is the link of my personal portfolio **https://shubhampar.github.io/**.
+        Here is the link of my personal portfolio https://shubhampar.github.io/.
     </strong>
 </p>
 
